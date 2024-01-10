@@ -58,7 +58,6 @@ export default {
 
   .sideBar li:hover{
     cursor: pointer;
-
   }
 
   li.active{
